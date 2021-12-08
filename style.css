@@ -1,0 +1,55 @@
+.one{
+    background-color:bisque;
+    color: navy;
+    height: 50px;
+    width: 100px;
+    border: rgb(250, 244, 244) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+    display: block;
+
+}
+.two{
+    background-color: bisque;
+    color: darkcyan;
+    height: 30px;
+    width: 100px;
+    border: rgb(35, 158, 138) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+    display: block;
+    padding-top:15px ;
+    display: inline-block;
+}
+.new{
+    background-color:lawngreen;
+    color:rgb(190, 134, 29);
+    border: rgb(103, 25, 192) solid 5px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+    display: inline;
+}
+.new1{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: rgb(190, 134, 29) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+    display: none;
+}
+h2{
+    
+    color: rgb(42, 165, 58);
+}
